@@ -12,9 +12,6 @@ import InitLogin
 import traceback
 
 import unittest
-from appium import webdriver
-from time import sleep
-import Initialize
 
 
 class ExpenseLogin(unittest.TestCase):

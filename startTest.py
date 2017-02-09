@@ -14,6 +14,4 @@ sys.path.append(curDir + '/TestCases/login')
 
 import ExpenseLogin
 
-
-
 ExpenseLogin.suite(0)
